@@ -26,3 +26,5 @@ Bütün testleri aşağıdaki komutu terminale yazarak çalıştırabilirsiniz.
 > ` mvn test `
 
 ### Çalışma Videosu
+
+https://user-images.githubusercontent.com/37184598/149761256-2646ab3f-d1c4-4b35-864e-5b0f3ba98337.mp4
