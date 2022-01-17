@@ -27,7 +27,7 @@ Bütün testleri aşağıdaki komutu terminale yazarak çalıştırabilirsiniz.
 
 ### Test Raporu
 
-<img src="https://user-images.githubusercontent.com/37184598/149763134-ab50dc08-486b-4bd6-90a9-bc79ac35f432.png" alt="Girl in a jacket" width="550" height="375">
+<img src="https://user-images.githubusercontent.com/37184598/149763134-ab50dc08-486b-4bd6-90a9-bc79ac35f432.png" alt="Cucumber Mizu Report" width="550" height="375">
 
 ### Çalışma Videosu
 
