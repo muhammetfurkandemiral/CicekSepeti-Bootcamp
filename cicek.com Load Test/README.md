@@ -24,7 +24,7 @@
 
 ### Otomatik Load Test Raporu
 
-Linke tıklayarak erişebilirsiniz : https://muhammetfurkandemiral.github.io/JMeterReport/
+Linke tıklayarak erişebilirsiniz : [https://muhammetfurkandemiral.github.io/JMeterReport/](https://mfurkandemiralreport.github.io/JMeterReport/)
 
 ### Load Test Cases
 
